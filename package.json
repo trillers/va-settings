@@ -1,0 +1,14 @@
+{
+  "name": "va-settings",
+  "version": "0.1.0-SNAPSHOT",
+  "description": "va settings",
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/trillers/va-settings.git"
+  },
+  "main": "index.js",
+  "author": "allen he",
+  "license": "",
+  "dependencies": {
+  }
+}
